@@ -1,4 +1,6 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=Hi+there,+I'm+Zahrat-ElOula!+👋;Data+Science+%26+AI+Student;PCAP+Certified" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&width=435&lines=Hi+there,+I'm+Zahrat-ElOula!+👋;Data+Science+%26+AI+Student;PCAP+Certified" alt="Typing SVG" /></a>
+
+<p align="left">
 
 <p align="left">
   <img src="https://img.shields.io/badge/Data%20Science-Engineering-blue?style=for-the-badge" alt="Data Science">

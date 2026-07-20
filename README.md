@@ -34,12 +34,11 @@ I am a passionate **Data Science & Artificial Intelligence Engineering** student
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Databricks-E24A35?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zahrat-ElOula&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Zahrat-ElOula's GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahrat-ElOula&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="300">
-</p>
+

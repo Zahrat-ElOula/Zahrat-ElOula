@@ -96,20 +96,3 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
 
 </div>
 
-<br>
-
-## 📅 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahrat-eloula&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%">
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=zahrat-eloula&color=blue&style=for-the-badge)
-
-</div>

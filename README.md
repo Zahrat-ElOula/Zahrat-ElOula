@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-> I am a passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia**. I specialize in building intelligent applications, designing Retrieval-Augmented Generation systems, and delivering data-driven solutions.
+> 💡 Passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia** 🇹🇳 — specializing in building intelligent applications, designing Retrieval-Augmented Generation systems, and delivering data-driven solutions that turn data into decisions.
 
 <table>
 <tr>
@@ -27,16 +27,16 @@
 **🔭 Current Focus**
 Building production-ready AI tools, intelligent CRM systems, and predictive forecasting applications.
 
-**🌱 Learning**
+**🌱 Always Learning**
 Diving deeper into Advanced Large Language Models (LLMs), agentic frameworks, and fine-tuning.
 
 </td>
 <td width="50%" valign="top">
 
-**💬 Ask me about**
+**💬 Ask Me About**
 Python, building RAG applications with Ollama/Groq, and predictive modeling.
 
-**📫 Connect with me**
+**📫 Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahrat-el-oulaa-h-02a51b246)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:HAMDANI.ZahratElOulaa@tek-up.de)
 
@@ -69,6 +69,29 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
   <img src="https://img.shields.io/badge/Databricks-E24A35?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zahrat-eloula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrat-eloula&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrat-eloula&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+
+</div>
+
+<br>
+
+## 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahrat-eloula&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%">
+
+</div>
 
 <br>
 

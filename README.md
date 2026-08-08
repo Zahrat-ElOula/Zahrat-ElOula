@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Zahrat-ElOula! 👋
+# Hi there, I'm Zahrat El Oula! 👋
 
 <p>
   <img src="https://img.shields.io/badge/Data%20Science-Engineering-blue?style=for-the-badge" alt="Data Science">
@@ -48,8 +48,11 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
 
 ## 🛠️ Tech Stack & Toolbelt
 
-### 🤖 Artificial Intelligence & Data Science
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**🤖 AI & Data Science**
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -58,17 +61,27 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-### 🌐 Web Development & BI
-
+**🌐 Web Development**
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**☁️ Cloud & Business Intelligence**
+<p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Databricks-E24A35?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
+
+</td>
+</tr>
+</table>
 
 <br>
 

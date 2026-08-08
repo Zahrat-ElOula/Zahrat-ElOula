@@ -1,26 +1,55 @@
+<div align="center">
+
 # Hi there, I'm Zahrat-ElOula! 👋
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Data%20Science-Engineering-blue?style=for-the-badge" alt="Data Science">
   <img src="https://img.shields.io/badge/AI%20Engineering-Student-purple?style=for-the-badge" alt="AI Engineering">
   <img src="https://img.shields.io/badge/PCAP-Certified-green?style=for-the-badge" alt="PCAP Certified">
 </p>
 
----
+</div>
 
-### 🚀 About Me
-I am a passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia**. I specialize in building intelligent applications, designing Retrieval-Augment[...]
+<br>
 
-- 🔭 **Current Focus:** Building production-ready AI tools, intelligent CRM systems, and predictive forecasting applications.
-- 🌱 **Learning:** Diving deeper into Advanced Large Language Models (LLMs), agentic frameworks, and fine-tuning.
-- 💬 **Ask me about:** Python, building RAG applications with Ollama/Groq, and predictive modeling.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/zahrat-el-oulaa-h-02a51b246) | [Email](mailto:HAMDANI.ZahratElOulaa@tek-up.de)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
----
+<br>
 
-### 🛠️ Tech Stack & Toolbelt
+## 🚀 About Me
 
-#### 🤖 Artificial Intelligence & Data Science
+> I am a passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia**. I specialize in building intelligent applications, designing Retrieval-Augmented Generation systems, and delivering data-driven solutions.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔭 Current Focus**
+Building production-ready AI tools, intelligent CRM systems, and predictive forecasting applications.
+
+**🌱 Learning**
+Diving deeper into Advanced Large Language Models (LLMs), agentic frameworks, and fine-tuning.
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Ask me about**
+Python, building RAG applications with Ollama/Groq, and predictive modeling.
+
+**📫 Connect with me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahrat-el-oulaa-h-02a51b246)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:HAMDANI.ZahratElOulaa@tek-up.de)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🛠️ Tech Stack & Toolbelt
+
+### 🤖 Artificial Intelligence & Data Science
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -29,7 +58,8 @@ I am a passionate **Data Science & Artificial Intelligence Engineering** student
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-#### 🌐 Web Development & BI
+### 🌐 Web Development & BI
+
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -40,5 +70,10 @@ I am a passionate **Data Science & Artificial Intelligence Engineering** student
   <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
 
----
+<br>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=zahrat-eloula&color=blue&style=for-the-badge)
+
+</div>

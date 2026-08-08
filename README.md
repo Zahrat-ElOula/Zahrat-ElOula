@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia**. I specialize in building intelligent applications, designing Retrieval-Augmented Generation (RAG) systems, and turning data into actionable insights.
+I am a passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia**. I specialize in building intelligent applications, designing Retrieval-Augment[...]
 
 - 🔭 **Current Focus:** Building production-ready AI tools, intelligent CRM systems, and predictive forecasting applications.
 - 🌱 **Learning:** Diving deeper into Advanced Large Language Models (LLMs), agentic frameworks, and fine-tuning.
@@ -34,11 +34,11 @@ I am a passionate **Data Science & Artificial Intelligence Engineering** student
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Databricks-E24A35?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
   <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
 
 ---
-
 

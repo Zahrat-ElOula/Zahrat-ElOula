@@ -85,14 +85,5 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
 
 <br>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahrat-eloula&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-
-
-
-</div>
 

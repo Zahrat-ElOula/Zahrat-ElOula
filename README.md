@@ -38,7 +38,7 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
 
 **📫 Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahrat-el-oulaa-h-02a51b246)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:HAMDANI.ZahratElOulaa@tek-up.de)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zahrateloulaa.hamdani@gmail.com)
 
 </td>
 </tr>

@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-> 💡 Passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia** 🇹🇳 — specializing in building intelligent applications, designing Retrieval-Augmented Generation systems, and delivering data-driven solutions that turn data into decisions.
+> 💡 Passionate **Data Science & Artificial Intelligence Engineering** student at **Tek-Up**, based in **Tunisia** 🇹🇳 — specializing in building intelligent applications, designing Retrieval[...]
 
 <table>
 <tr>
@@ -79,11 +79,15 @@ Python, building RAG applications with Ollama/Groq, and predictive modeling.
   <img src="https://img.shields.io/badge/Superset-007A87?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Apache Superset">
 </p>
 
+**🎮 Game Development & XR**
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/AR/VR-XR%20Development-orange?style=for-the-badge" alt="AR/VR">
+  <img src="https://img.shields.io/badge/3D%20Graphics-Development-blueviolet?style=for-the-badge" alt="3D Graphics">
+</p>
+
 </td>
 </tr>
 </table>
 
 <br>
-
-
-

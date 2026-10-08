@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-> 💡 I'm a passionate **Data Science & AI Engineering** student at **Tek-Up**, specializing in building production-ready intelligent applications with a focus on **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI Systems**.
+> 💡 I'm a passionate **Data Science & AI Engineering** student at **CESI**, specializing in building production-ready intelligent applications with a focus on **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, and **Agentic AI Systems**.
 
 <div align="center">
 

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/📜%20PCAP%20Certified-green?style=for-the-badge&logoColor=white" alt="PCAP Certified">
 </p>
 
-**Building Intelligent Systems | From Data to Production | Tunisia 🇹🇳**
+**Building Intelligent Systems | From Data to Production | France**
 
 </div>
 

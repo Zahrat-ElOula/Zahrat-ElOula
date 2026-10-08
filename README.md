@@ -39,11 +39,6 @@
 ### 💬 **Ask Me About**
 Python • RAG Architectures • Ollama/Groq APIs • Predictive Modeling • LLM Fine-tuning
 
-### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/zahrat-el-oulaa-h-02a51b246)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=D14836)](mailto:zahrateloulaa.hamdani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=181717)](https://github.com/Zahrat-ElOula)
-
 </div>
 
 ---

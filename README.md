@@ -105,7 +105,7 @@ Full-stack CRM that uses **OpenAI GPT** to analyse each new client automatically
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [TalentForge](https://github.com/2ammyy/TalentForge) *(team project)*
+### 🎨 [TalentForge](https://github.com/2ammyy/TalentForge) 
 AI-driven networking platform where **creative work is the résumé**. Transformer-based **content moderation**, creative-relevance scoring, creator analytics, real-time messaging via WebSockets.
 
 `Django` `PostgreSQL` `Hugging Face` `Redis` `Celery` `Docker`

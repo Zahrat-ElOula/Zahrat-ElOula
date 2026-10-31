@@ -105,7 +105,7 @@ Full-stack CRM that uses **OpenAI GPT** to analyse each new client automatically
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [TalentForge](https://github.com/2ammyy/TalentForge) 
+### 🎨 [TalentForge](https://github.com/2ammyy/TalentForge) *(team project)*
 AI-driven networking platform where **creative work is the résumé**. Transformer-based **content moderation**, creative-relevance scoring, creator analytics, real-time messaging via WebSockets.
 
 `Django` `PostgreSQL` `Hugging Face` `Redis` `Celery` `Docker`
@@ -113,7 +113,7 @@ AI-driven networking platform where **creative work is the résumé**. Transform
 </td>
 <td width="50%" valign="top">
 
-### 🌦️ [WeatherGuardTN](https://github.com/2ammyy/WeatherGuardTN_AI_BI_project) *(team project, in progress)*
+### 🌦️ [WeatherGuardTN](https://github.com/2ammyy/WeatherGuardTN_AI_BI_project) *(team project)*
 Early-warning predictor for dangerous weather in Tunisia: heat, floods, storms and school closures, with colour-coded vigilance levels per governorate and a React dashboard aimed at citizens and civil protection.
 
 `FastAPI` `XGBoost` `React` `n8n`

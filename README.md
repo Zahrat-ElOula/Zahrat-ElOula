@@ -49,7 +49,7 @@ class ZahratElOulaa:
 ## 🧭 What I work with
 
 <div align="center">
-  <img src="./assets/orbit.svg" alt="Python, SQL, PySpark, NLP, LLMs, RAG, Vision, MLOps, Full-stack and BI orbiting around AI Engineering" width="100%">
+  <img src="orbit.svg" alt="Python, SQL, PySpark, NLP, LLMs, RAG, Vision, MLOps, Full-stack and BI orbiting around AI Engineering" width="100%">
 </div>
 
 ---

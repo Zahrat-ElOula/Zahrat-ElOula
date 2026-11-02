@@ -3,7 +3,7 @@
 <img src="header.svg" alt="Zahrat El Oulaa Hamdani — Data Science & AI Engineering Student" width="100%">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=I+turn+messy+data+into+working+AI+products;RAG+pipelines+%2B+LLM+apps+that+cite+their+sources;Fine-tuned+an+NLP+model+for+Tunisian+Derja;Looking+for+a+6-month+end-of-studies+internship+%E2%80%94+Feb+2027" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=50&lines=I+turn+messy+data+into+working+AI+products;RAG+pipelines+%2B+LLM+apps+that+cite+their+sources;Looking+for+a+6-month+end-of-studies+internship+%E2%80%94+Feb+2027" alt="Typing animation" />
 </a>
 
 <p>
